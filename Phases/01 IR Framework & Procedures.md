@@ -11,7 +11,7 @@
 
 ## Core Principle
 
-Incident response is not optional—it's mandated compliance (NIST 800-171 3.6.1) and business-critical. This framework ensures your organization can detect incidents quickly, respond decisively, preserve evidence for investigation, communicate clearly to leadership, and improve continuously.
+Incident response is not optional it's mandated compliance (NIST 800-171 3.6.1) and business-critical. This framework ensures your organization can detect incidents quickly, respond decisively, preserve evidence for investigation, communicate clearly to leadership, and improve continuously.
 
 ---
 
